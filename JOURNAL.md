@@ -6,11 +6,19 @@
   ==================================================================
 -->
 
-## 10/24/2025 - I started working on the project  
+## 10/24/2025 9 AM - I started working on the project  
 
 Hi,
 In past 2 days i was been flowing the tutorial of blueprint to build my split keyboard i alredy finished the schematics and im assigning the foot print now![imagem_2025-10-24_092234245.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--8b730245f9f99bc59270ca7d586c73bf7af65978/imagem_2025-10-24_092234245.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa63f96b151f6caef6b0187042cb9ce23f9631fa/image.png)
 ![imagem_2025-10-24_092249496.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ca4e214292ede2ec7685e0d22de4ddf05a37ddee/imagem_2025-10-24_092249496.png)
+  
+
+## 10/24/2025 2 PM - Make everything again  
+
+![WhatsApp Image 2025-10-24 at 14.17.43_a7db7e8b.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--7e55a29a3f9b208dc22ae10afa2865c4531e85e5/WhatsApp%20Image%202025-10-24%20at%2014.17.43_a7db7e8b.jpg)
+Ok, i was looking for videos and i saw tons of videos and keyboards designs i redo everything from scrach and new layout is something like this
+![imagem_2025-10-24_141952789.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b1a897052711a7015c030d6f4e1ca2fec9795dcc/imagem_2025-10-24_141952789.png)
+Now im thinking how to display the keys
   
 
