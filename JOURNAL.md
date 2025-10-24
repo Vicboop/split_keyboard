@@ -22,3 +22,8 @@ Ok, i was looking for videos and i saw tons of videos and keyboards designs i re
 Now im thinking how to display the keys
   
 
+## 10/24/2025 3 PM - Layout defined  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe309a7e98bbaee19dddda163aa70e030c1cf12c/image.png)
+Finaly i finished the layout. im having troubles whit the 3d viewer but i will see what i can do, everything is going well besides of that, i sill strat to try to resolve the problem  
+
