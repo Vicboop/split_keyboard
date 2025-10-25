@@ -27,12 +27,18 @@ Now im thinking how to display the keys
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe309a7e98bbaee19dddda163aa70e030c1cf12c/image.png)
 Finaly i finished the layout. im having troubles whit the 3d viewer but i will see what i can do, everything is going well besides of that, i sill strat to try to resolve the problem  
 
-## 10/25/2025 - Redo for more keys  
+## 10/25/2025 12 PM - Redo for more keys  
 
 Whit help in the hackclub slack i found a new controler for my board because i want more keys (https://pt.aliexpress.com/item/1005009516681283.html?invitationCode=VFhUZVhMeXJ1UTlkWEVQS0YvdlNLL3FZK3VOdXFGMGU2dmpuK2Zkdy9sT2VQemFTZUJrNWVWT0s1MU1hdTAyWg&srcSns=sns_Copy&spreadType=socialShare&social_params=61290449983&bizType=ProductDetail&spreadCode=VFhUZVhMeXJ1UTlkWEVQS0YvdlNLL3FZK3VOdXFGMGU2dmpuK2Zkdy9sT2VQemFTZUJrNWVWT0s1MU1hdTAyWg&aff_fcid=a1cc72c427bb4618a3338485e956e263-1761390066966-02549-_EzvQ3QU&tt=MG&aff_fsk=_EzvQ3QU&aff_platform=default&sk=_EzvQ3QU&aff_trace_key=a1cc72c427bb4618a3338485e956e263-1761390066966-02549-_EzvQ3QU&shareId=61290449983&businessType=ProductDetail&platform=AE&terminal_id=9e8500c8619d47ceb97f776d2286b981&afSmartRedirect=y) 
 my new diagram
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--193c6d99633758c8af40eb59861332c1c763cedb/image.png)
 and the layout that i will do
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--f0f205caa94b90f189909a9edfbb6d11df731fee/image.png)
+  
+
+## 10/25/2025 4 PM - Routed left side  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ2MywicHVyIjoiYmxvYl9pZCJ9fQ==--bbd7c846b243225fdac16864bcdd96791dfae9d2/image.png)
+Finished the right side pcb including the routing, i will do the left side tomorrow wnd shearch for a batery online, until now i already have done the pcb and shematic 3 times
   
 
