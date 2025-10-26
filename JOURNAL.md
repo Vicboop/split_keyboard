@@ -42,3 +42,9 @@ and the layout that i will do
 Finished the right side pcb including the routing, i will do the left side tomorrow wnd shearch for a batery online, until now i already have done the pcb and shematic 3 times
   
 
+## 10/26/2025 - Routed PCB  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTcwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--028b1bafb2cd8c363fe6bb1a064030c127f07ce8/image.png)
+I fineshed the pcb design and i will use the battery(https://pt.aliexpress.com/item/1005009372894259.html?spm=a2g0o.productlist.main.8.5b54799c48XhDn&algo_pvid=b32e03f6-edbd-426e-9742-57f11f86aba1&algo_exp_id=b32e03f6-edbd-426e-9742-57f11f86aba1-7&pdp_ext_f=%7B"order"%3A"-1"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21EUR%215.95%215.30%21%21%216.75%216.01%21%402103956a17614822298805096e86af%2112000048901745270%21sea%21PT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aebac7c7d%3Bm03_new_user%3A-29895&curPageLogUid=5oiDX8gfIbZv&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009372894259%7C_p_origin_prod%3A)
+  
+
