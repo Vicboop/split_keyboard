@@ -20,3 +20,11 @@ Right
 
 Left
 <img width="1055" height="805" alt="image" src="https://github.com/user-attachments/assets/6618f4f5-4af1-45f2-88f0-817a159fff73" />
+
+
+
+## BOM
+
+
+
+Total (using coupon)= $152
