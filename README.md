@@ -13,5 +13,10 @@ ZMK Firmware
 
 Hotswappable
 ## PCB
+<img width="1381" height="796" alt="image" src="https://github.com/user-attachments/assets/7c3ed153-b182-4dda-a21d-6847455b8574" />
 
-<img width="886" height="670" alt="Screenshot 2025-10-25 163240" src="https://github.com/user-attachments/assets/541ac2e8-c05f-426a-a840-3ffa0f2a0abc" />
+Right
+<img width="1094" height="799" alt="image" src="https://github.com/user-attachments/assets/a473ec24-f20c-4cd6-9384-77bdfffca528" />
+
+Left
+<img width="1055" height="805" alt="image" src="https://github.com/user-attachments/assets/6618f4f5-4af1-45f2-88f0-817a159fff73" />
