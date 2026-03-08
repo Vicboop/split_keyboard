@@ -22,6 +22,9 @@ Hotswappable
 <img width="1539" height="649" alt="image" src="https://github.com/user-attachments/assets/02cd883f-c654-4d05-b3c5-6dcbb86b6630" />
 
 
+<img width="1510" height="537" alt="image" src="https://github.com/user-attachments/assets/894e2b2f-fd7e-4558-99f9-5b4cc98ef18c" />
+
+
 ## BOM
 
 
