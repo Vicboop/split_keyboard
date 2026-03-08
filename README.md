@@ -13,13 +13,10 @@ ZMK Firmware
 
 Hotswappable
 ## PCB
-<img width="1381" height="796" alt="image" src="https://github.com/user-attachments/assets/7c3ed153-b182-4dda-a21d-6847455b8574" />
+<img width="1231" height="712" alt="image" src="https://github.com/user-attachments/assets/5f9ed3d4-24b2-43c2-9684-61980f017ad7" />
 
-Right
-<img width="1094" height="799" alt="image" src="https://github.com/user-attachments/assets/a473ec24-f20c-4cd6-9384-77bdfffca528" />
 
-Left
-<img width="1055" height="805" alt="image" src="https://github.com/user-attachments/assets/6618f4f5-4af1-45f2-88f0-817a159fff73" />
+<img width="1405" height="563" alt="image" src="https://github.com/user-attachments/assets/f9807ee3-616c-4309-bb57-4422e59ef60b" />
 
 
 
@@ -27,4 +24,4 @@ Left
 
 
 
-Total (using coupon)= $152
+Total (using coupon)= 
