@@ -29,4 +29,4 @@ Hotswappable
 
 
 
-Total (using coupon)= 
+Total (using coupon)= 112€
