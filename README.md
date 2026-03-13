@@ -28,5 +28,12 @@ Hotswappable
 ## BOM
 
 
-
-Total (using coupon)= 112€
+| Product                | Quantity | Source     | Price (€) | Shipping (€) | Link |
+|------------------------|----------|------------|-----------|--------------|------|
+| Nice! Nano V2.0        | 2        | Aliexpress | 6,04      |              | https://pt.aliexpress.com/item/1005009516681283.html |
+| Batery 3.7V 600mAh     | 2        | Aliexpress | 12,02     |              | https://pt.aliexpress.com/item/1005010194727026.html |
+| White MX Hotswap       | 110      | Aliexpress | 16,66     |              | https://pt.aliexpress.com/item/1005005090520759.html |
+| Akko Crystal V3 Switch | 80       | Aliexpress | 31,66     |              | https://pt.aliexpress.com/item/1005008942995452.html |
+| PCB                    | 1        | JLCPCB     | 28,40     | 19,79        |      |
+| Diode 1N4148W          | 100      | Aliexpress | 1,69      |              | https://pt.aliexpress.com/item/1005007903085825.html |
+| **Total**              |          |            | **112,05**|              |      |
