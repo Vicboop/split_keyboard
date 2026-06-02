@@ -1,0 +1,11 @@
+file_format: "1"
+id: pcblander
+name: PCBLander
+type: shield
+url: https://github.com/Vicboop/split_keyboard
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - pcblander_left
+  - pcblander_right

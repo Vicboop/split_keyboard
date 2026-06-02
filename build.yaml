@@ -1,0 +1,9 @@
+include:
+  - board: nice_nano//zmk
+    shield: pcblander_left
+    snippet: studio-rpc-usb-uart
+    cmake-args: -DCONFIG_ZMK_STUDIO=y
+    artifact-name: pcblander_left
+  - board: nice_nano//zmk
+    shield: pcblander_right
+    artifact-name: pcblander_right

@@ -1,0 +1,62 @@
+#include <behaviors.dtsi>
+#include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/keys.h>
+
+#define BASE 0
+#define NAV 1
+#define NUM 2
+#define PLAY 3
+
+/ {
+    keymap {
+        compatible = "zmk,keymap";
+
+        base_layer {
+            display-name = "Base";
+            bindings = <
+                &kp ESC     &kp N1      &kp N2      &kp N3      &kp N4      &kp N5      &kp LBKT        &kp RBKT    &kp N6      &kp N7      &kp N8      &kp N9      &kp N0      &kp RBKT
+                &kp TAB     &kp Q       &kp W       &kp E       &kp R       &kp T       &kp LPAR        &kp RPAR    &kp Y       &kp U       &kp I       &kp O       &kp P       &kp LBKT
+                &kp GRAVE   &kp A       &kp S       &kp D       &kp F       &kp G       &kp MINUS       &kp EQUAL   &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp SQT
+                &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B                       &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp RSHFT
+                &none       &kp LC(Z)   &kp LCTRL   &kp TILDE   &kp LGUI                    &kp RGUI    &kp RALT    &kp BSLH    &none       &kp RET
+                &kp LG(D)   &kp SPACE   &kp LA(SPACE) &to NAV                                  &to PLAY   &to NAV     &to NUM     &kp BSPC
+            >;
+        };
+
+        nav_layer {
+            display-name = "Nav";
+            bindings = <
+                &studio_unlock &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR   &trans     &kp F1      &kp F2      &kp F3      &kp F4      &kp F5      &kp F6
+                &trans      &kp F7      &kp F8      &kp F9      &kp F10     &kp F11     &kp F12         &trans     &kp HOME    &kp UP      &kp END     &kp PG_UP   &trans      &trans
+                &trans      &trans      &trans      &trans      &trans      &trans      &trans          &trans     &kp LEFT    &kp DOWN    &kp RIGHT   &kp PG_DN   &trans      &trans
+                &trans      &trans      &trans      &trans      &trans      &trans                      &kp INS     &kp DEL     &trans      &trans      &trans      &trans
+                &trans      &trans      &trans      &trans      &trans                     &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans      &to BASE                                  &to PLAY   &to NAV     &to NUM     &kp BSPC
+            >;
+        };
+
+        num_layer {
+            display-name = "Num";
+            bindings = <
+                &to BASE    &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT   &kp LBKT        &kp RBKT    &kp KP_N7   &kp KP_N8   &kp KP_N9   &kp KP_MINUS &trans     &kp BSPC
+                &trans      &kp CARET   &kp AMPS    &kp ASTRK   &kp LPAR    &kp RPAR    &trans          &trans     &kp KP_N4   &kp KP_N5   &kp KP_N6   &kp KP_PLUS &trans      &trans
+                &trans      &kp GRAVE   &kp MINUS   &kp EQUAL   &kp LBKT    &kp RBKT    &trans          &trans     &kp KP_N1   &kp KP_N2   &kp KP_N3   &kp KP_ENTER &trans     &trans
+                &trans      &kp TILDE   &kp UNDER   &kp PLUS    &kp LBRC    &kp RBRC                    &kp KP_N0   &kp KP_N0   &kp KP_DOT  &kp COMMA   &trans      &trans
+                &trans      &trans      &trans      &trans      &trans                     &trans      &trans      &trans      &trans      &trans
+                &trans      &trans      &trans      &to BASE                                  &to PLAY   &to NAV     &to NUM     &kp BSPC
+            >;
+        };
+
+        play_layer {
+            display-name = "Play";
+            bindings = <
+                &to BASE    &kp N1      &kp N2      &kp N3      &kp N4      &kp N5      &kp N6          &kp N7      &kp N8      &kp N9      &kp N0      &kp MINUS   &kp EQUAL   &kp BSPC
+                &kp TAB     &kp Q       &kp W       &kp E       &kp R       &kp T       &trans          &trans     &kp Y       &kp U       &kp I       &kp O       &kp P       &trans
+                &kp LCTRL   &kp A       &kp S       &kp D       &kp F       &kp G       &trans          &trans     &kp H       &kp J       &kp K       &kp L       &trans      &trans
+                &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B                       &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &kp RSHFT
+                &none       &none       &kp LCTRL   &kp SPACE   &kp LALT                    &kp RGUI    &kp RALT    &kp BSLH    &none       &kp RET
+                &trans      &kp SPACE   &trans      &to BASE                                  &to PLAY   &to NAV     &to NUM     &kp BSPC
+            >;
+        };
+    };
+};

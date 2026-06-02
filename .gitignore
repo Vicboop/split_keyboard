@@ -1,0 +1,7 @@
+build/
+.west/
+modules/
+tools/
+zephyrproject/
+zmk/
+*.log
