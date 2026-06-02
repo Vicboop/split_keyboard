@@ -46,6 +46,8 @@ Devem aparecer:
 
 O ficheiro `pcblander_left.uf2` já é compilado com suporte para ZMK Studio por USB. O lado direito não precisa de Studio, porque num split wireless o lado esquerdo é o central.
 
+O projeto está fixado em ZMK `v0.3` para evitar que mudanças recentes no ramo `main` quebrem a compilação.
+
 ## Compilar localmente com Docker
 
 Instala o Docker Desktop e depois abre PowerShell na raiz do projeto.
@@ -61,14 +63,14 @@ west init -l config
 west update --fetch-opt=--filter=tree:0
 west zephyr-export
 
-west build -s zmk/app -d build/left -b nice_nano//zmk \
+west build -s zmk/app -d build/left -b nice_nano_v2 \
   -S studio-rpc-usb-uart -- \
   -DZMK_CONFIG=/workspace/config \
   -DZMK_EXTRA_MODULES=/workspace \
   -DCONFIG_ZMK_STUDIO=y \
   -DSHIELD=pcblander_left
 
-west build -s zmk/app -d build/right -b nice_nano//zmk -- \
+west build -s zmk/app -d build/right -b nice_nano_v2 -- \
   -DZMK_CONFIG=/workspace/config \
   -DZMK_EXTRA_MODULES=/workspace \
   -DSHIELD=pcblander_right
